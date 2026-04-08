@@ -13,6 +13,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - EMISSION_PROCEDURAL_MASK_ON
+  - USE_NORMAL_MAP_ON
   - USE_WIND_ON
   - _ALPHATEST_ON
   - _SURFACE_TYPE_TRANSPARENT
@@ -188,7 +189,7 @@ Material:
     - Boolean_40c191edef53412c940356f94619f8e7: 0
     - Boolean_f345a42972cb44d3b3a33e57a8924ac4: 1
     - EMISSION_PROCEDURAL_MASK: 1
-    - USE_NORMAL_MAP: 0
+    - USE_NORMAL_MAP: 1
     - USE_TRANSPARENCY_INTERSECTION: 0
     - USE_WIND: 1
     - Vector1_00ea39316c454a419647b4dbad601a64: 0.9
@@ -270,7 +271,7 @@ Material:
     - _Emission_From_R_T_From_B_F: 0
     - _Emission_From_R__T__From_B__F_: 0
     - _Emission_Gradient_Contrast: 1
-    - _Emission_Over_Time: 0.71
+    - _Emission_Over_Time: 0.4
     - _EmissiveColorMode: 1
     - _EmissiveExposureWeight: 1
     - _EmissiveIntensity: 1
@@ -392,7 +393,7 @@ Material:
     - _Diffusion_Profile_Asset: {r: -8.489958e-35, g: 6.00157e-17, b: -1.2974213e-37, a: 5.5824003e+25}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Emission_Color: {r: 357.81622, g: 0, b: 0, a: 0}
+    - _Emission_Color: {r: 102.755745, g: 4.7366486, b: 0, a: 0}
     - _Emission_Gradient_Color: {r: 0, g: 0, b: 0, a: 0}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
