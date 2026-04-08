@@ -35,3 +35,10 @@ Desactiva funciones que no necesitas en `Settings → Features`:
 
 
 </footer>
+
+
+https://www.youtube.com/watch?v=uNzLQjpg6UE&t=424s
+
+https://www.youtube.com/watch?v=DKVdg8DsIVY&t=342s
+
+https://realtimevfx.com/t/6-way-lightmap-wip/5457
