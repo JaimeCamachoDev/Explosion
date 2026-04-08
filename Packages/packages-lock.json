@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.occasoftware.fireworks": {
+      "version": "file:com.occasoftware.fireworks",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.visualeffectgraph": "14.0.7"
+      }
+    },
     "com.unity.bindings.openimageio": {
       "version": "1.0.2",
       "depth": 1,
@@ -267,6 +275,12 @@
         "com.unity.modules.imageconversion": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.unity.modules.wind": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
     }
   }
 }
